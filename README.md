@@ -16,10 +16,10 @@ An application that can be used to generate Invoices.
 - Total Amount should be shown at the bottom of the list after applying the discount.
 - A "Generate Invoice" button should be provided and upon clicking it, all the information should be neatly displayed in a printable format.
 
-## Requirements
-- php 7
 
 ## Installation
-- clone repository
+- clone repository into your wamp www folder
+- Start apache
+- Go to http://localhost/generate-invoice-php/
 
 
