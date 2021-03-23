@@ -1,4 +1,4 @@
-# Generate  PHP
+# Generate Invoie PHP
 An application that can be used to generate Invoices. 
 
 
@@ -15,3 +15,11 @@ An application that can be used to generate Invoices.
 - Users should be able to provide a discount on top of the Subtotal with tax. Discount can be a percentage(%) value or an amount ($).
 - Total Amount should be shown at the bottom of the list after applying the discount.
 - A "Generate Invoice" button should be provided and upon clicking it, all the information should be neatly displayed in a printable format.
+
+## Requirements
+- php 7
+
+## Installation
+- clone repository
+
+
